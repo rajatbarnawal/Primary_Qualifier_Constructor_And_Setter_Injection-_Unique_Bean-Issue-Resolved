@@ -12,7 +12,7 @@ public class Lenovo implements Laptop {
 		
 		System.out.println("learning git");
 		
-		System.out.println("dd");
+		System.out.println("Patel Budo");
 		// TODO Auto-generated method stub
 		return "Name of laptop is :-Lenove";
 
