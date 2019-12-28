@@ -11,6 +11,8 @@ public class Lenovo implements Laptop {
 	public String laptopName() {
 		
 		System.out.println("learning git");
+		
+		System.out.println("dd");
 		// TODO Auto-generated method stub
 		return "Name of laptop is :-Lenove";
 
