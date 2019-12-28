@@ -9,6 +9,8 @@ public class Lenovo implements Laptop {
 
 	@Override
 	public String laptopName() {
+		
+		System.out.println("learning git");
 		// TODO Auto-generated method stub
 		return "Name of laptop is :-Lenove";
 
