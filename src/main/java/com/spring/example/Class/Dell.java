@@ -13,7 +13,7 @@ public class Dell implements Laptop {
 	@Override
 	public String laptopName() {
 		// TODO Auto-generated method stub
-		System.out.println("pyush sharma");
+		System.out.println("pyush sharma kk");
 		return "Name of Laptop is :- Dell";
 
 	}
